@@ -85,6 +85,18 @@
 		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/001. Two Sum/solution.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/002. Reverse Integer/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/003. Palindrome Number/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/004. Roman to Integer/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/005. Longest Common Prefix/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
