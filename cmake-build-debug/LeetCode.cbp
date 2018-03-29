@@ -97,6 +97,18 @@
 		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/005. Longest Common Prefix/solution.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/006. Valid Parentheses/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/007. Merge Two Sorted Lists/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/008. Remove Duplicates from Sorted Array/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/009. Remove Element/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
