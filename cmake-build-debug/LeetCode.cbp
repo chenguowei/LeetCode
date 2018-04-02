@@ -109,6 +109,12 @@
 		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/009. Remove Element/solution.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/019. Remove Nth Node From End of List/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/083. Remove Duplicates from Sorted List/solution.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/LeetCode/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
